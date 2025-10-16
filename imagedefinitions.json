@@ -1,6 +1,6 @@
 [
   {
     "name": "webapp",
-    "imageUri": "1834-5350-2489.dkr.ecr.us-east-1.amazonaws.com/devops-workshop-app"
+    "imageUri": "183453502489.dkr.ecr.us-east-1.amazonaws.com/devops-workshop-app"
   }
 ]
